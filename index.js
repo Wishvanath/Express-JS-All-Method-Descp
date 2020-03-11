@@ -170,6 +170,3 @@ NOTE- here process is the global object  and it has the propety called env(envir
     Now make some changes in app.listen method(port, () => console.log("Listening port on ${port}"));
     instead of "" in console.log("") use single back tag (`........`);
 ....*/
-
-// to listen the port on the server
-//app.listen(port, () => console.log(`listening port on ${port}`));
